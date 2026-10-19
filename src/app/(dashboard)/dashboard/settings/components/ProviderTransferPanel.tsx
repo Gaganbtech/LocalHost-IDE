@@ -212,7 +212,7 @@ function ExportView({ entries, loadError }: { entries: CatalogEntry[]; loadError
         setStatus({ type: "error", message: extractApiErrorMessage(data, t("exportFailed")) });
         return;
       }
-      await downloadResponseFile(res, "omniroute-provider-transfer.json");
+      await downloadResponseFile(res, "localhost-ide-provider-transfer.json");
       setStatus({ type: "success", message: t("exportDone", { count: selected.size }) });
     } catch {
       setStatus({ type: "error", message: t("exportFailed") });

@@ -38,6 +38,7 @@
 </h3>
 
 [![Stars](https://img.shields.io/github/stars/Gaganbtech/LocalHost-IDE?style=social)](https://github.com/Gaganbtech/LocalHost-IDE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gagan%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-a-92b44930a/)
 
 <br/>
 
@@ -1239,7 +1240,7 @@ same process on one port, so there is no separate CLI-only package today.
 
 Métricas canônicas em 2026-08-24: **1.029 vídeos únicos** · **11.132.922 visualizações conhecidas** (`v > 0`) · **639 canais/perfis por rede**. O painel bruto contém 1.070 linhas; 41 duplicatas do Instagram foram normalizadas pela URL canônica, mantendo a maior contagem por vídeo.
 
-> 🎬 **Made a video about OmniRoute?** Open an [issue](https://github.com/diegosouzapw/OmniRoute/issues/new) or [discussion](https://github.com/diegosouzapw/OmniRoute/discussions) with the link — we'll feature it here.
+> 🎬 **Made a video about LocalHost IDE?** Open an [issue](https://github.com/Gaganbtech/LocalHost-IDE/issues/new) or [discussion](https://github.com/Gaganbtech/LocalHost-IDE/discussions) with the link — we'll feature it here.
 
 <br/>
 
@@ -1249,6 +1250,7 @@ Métricas canônicas em 2026-08-24: **1.029 vídeos únicos** · **11.132.922 vi
 
 | Channel                                    | Where / how                                                                                                               |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| 💼 **LinkedIn**                            | [linkedin.com/in/gagan-a-92b44930a](https://www.linkedin.com/in/gagan-a-92b44930a/)                                     |
 | 📦 **Source code**                         | [github.com/Gaganbtech/LocalHost-IDE](https://github.com/Gaganbtech/LocalHost-IDE)                                        |
 | 🐛 **Report a bug**                        | [open an issue](https://github.com/Gaganbtech/LocalHost-IDE/issues)                                                       |
 | 🤝 **Contribute**                          | [CONTRIBUTING.md](CONTRIBUTING.md) · [Branching & Release Model](docs/ops/BRANCHING_MODEL.md) · pick a `good first issue` |

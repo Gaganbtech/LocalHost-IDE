@@ -51,7 +51,7 @@ export async function POST(request: Request) {
       headers: {
         "Content-Type": "application/json",
         "Cache-Control": "no-store",
-        "Content-Disposition": `attachment; filename="omniroute-provider-transfer-${stamp}.json"`,
+        "Content-Disposition": `attachment; filename="localhost-ide-provider-transfer-${stamp}.json"`,
       },
     });
   } catch (error) {

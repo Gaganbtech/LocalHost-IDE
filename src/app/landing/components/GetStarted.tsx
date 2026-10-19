@@ -10,7 +10,7 @@ export default function GetStarted() {
 
   const endpoint = useDisplayBaseUrl();
   const dashboardUrl = `${endpoint}/dashboard`;
-  const command = "npx omniroute";
+  const command = "npx localhost-ide";
 
   const handleCopy = async (text: string) => {
     await copyToClipboard(text);
@@ -106,10 +106,10 @@ export default function GetStarted() {
                   <span className="text-purple-400">{t("dataLocation")}</span>
                   <br />
                   <span className="text-gray-500">{t("dataLocationMacLinux")}</span>{" "}
-                  <span className="break-all">~/.omniroute/db.json</span>
+                  <span className="break-all">~/.localhost-ide/db.json</span>
                   <br />
                   <span className="text-gray-500">{t("dataLocationWindows")}</span>{" "}
-                  <span className="break-all">%APPDATA%/omniroute/db.json</span>
+                  <span className="break-all">%APPDATA%/localhost-ide/db.json</span>
                 </div>
               </div>
             </div>
