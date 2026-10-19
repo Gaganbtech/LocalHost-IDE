@@ -1,16 +1,16 @@
 ---
-title: "OmniRoute Roadmap"
+title: "LocalHost IDE Roadmap"
 version: 3.8.52
 lastUpdated: 2026-10-16
 ---
 
-# OmniRoute Roadmap
+# LocalHost IDE Roadmap
 
 > Version-gated, not date-gated: each milestone ships when its quality gates pass.
 > Current line: **v3.8.52** (`release/v3.8.52`). Last updated: 2026-10-16.
 > Status legend: ✅ landed · 🟡 partly landed / in review · ⏳ pending (owner action).
 
-OmniRoute is heading from a monolithic router to a **modular AI platform**: a lightweight
+LocalHost IDE is heading from a monolithic router to a **modular AI platform**: a lightweight
 core engine, a typed SDK, and everything else as installable modules and plugins. The path
 runs through a stabilization rail (3.8.50 → 3.8.59), an LTS anchor (**3.9.0**), and the
 modular **4.0**.

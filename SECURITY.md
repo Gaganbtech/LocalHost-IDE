@@ -2,10 +2,10 @@
 
 ## Reporting Vulnerabilities
 
-If you discover a security vulnerability in OmniRoute, please report it responsibly:
+If you discover a security vulnerability in LocalHost IDE, please report it responsibly:
 
 1. **DO NOT** open a public GitHub issue
-2. Use [GitHub Security Advisories](https://github.com/diegosouzapw/OmniRoute/security/advisories/new)
+2. Use [GitHub Security Advisories](https://github.com/Gaganbtech/LocalHost-IDE/security/advisories/new)
 3. Include: description, reproduction steps, and potential impact
 
 ## Response Timeline
@@ -37,7 +37,7 @@ After 3.8.59 the next version is **3.9.0**, which opens the long-term support li
   the window after v4.0 GA (when `latest` switches to v4) has **not been decided yet**; this
   section is updated when the maintainer announces it. Until then, do not assume an end date.
 - **Reporting a vulnerability in the LTS line:** same channel as any other version —
-  a private [GitHub Security Advisory](https://github.com/diegosouzapw/OmniRoute/security/advisories/new),
+  a private [GitHub Security Advisory](https://github.com/Gaganbtech/LocalHost-IDE/security/advisories/new),
   never a public issue. Say which version you tested (for example `3.9.2`); fixes land on
   `stable/v3` and are forward-ported to v4.
 - **Security baseline at the LTS cut:** measured scanner state, route-guard and
@@ -48,7 +48,7 @@ After 3.8.59 the next version is **3.9.0**, which opens the long-term support li
 
 ## Security Architecture
 
-OmniRoute implements a multi-layered security model:
+LocalHost IDE implements a multi-layered security model:
 
 ```
 Request → CORS → Authz pipeline (classify → policies → enforce)
@@ -85,7 +85,7 @@ STORAGE_ENCRYPTION_KEY=$(openssl rand -hex 32)
 
 ### 🛡️ Guardrails Framework
 
-OmniRoute ships a hot-reloadable **guardrails registry** (`src/lib/guardrails/`) with 3 built-in guardrails ordered by priority:
+LocalHost IDE ships a hot-reloadable **guardrails registry** (`src/lib/guardrails/`) with 3 built-in guardrails ordered by priority:
 
 | Guardrail          | Priority | Purpose                                                                                 |
 | ------------------ | -------- | --------------------------------------------------------------------------------------- |
@@ -198,15 +198,15 @@ The server actively rejects known-weak values like `changeme`, `secret`, or `pas
 
 ```bash
 docker run -d \
-  --name omniroute \
+  --name localhost-ide \
   --restart unless-stopped \
   --read-only \
   -p 20128:20128 \
-  -v omniroute-data:/app/data \
+  -v localhost-ide-data:/app/data \
   -e JWT_SECRET="$(openssl rand -base64 48)" \
   -e API_KEY_SECRET="$(openssl rand -hex 32)" \
   -e STORAGE_ENCRYPTION_KEY="$(openssl rand -hex 32)" \
-  diegosouzapw/omniroute:latest
+  Gaganbtech/LocalHost-IDE:latest
 ```
 
 ---

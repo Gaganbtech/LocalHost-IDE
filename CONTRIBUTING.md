@@ -1,4 +1,4 @@
-# Contributing to OmniRoute
+# Contributing to LocalHost IDE
 
 Thank you for your interest in contributing! This guide covers everything you need to get started.
 
@@ -26,8 +26,8 @@ coverage, and reconciliation steps.
 ### Clone & Install
 
 ```bash
-git clone https://github.com/diegosouzapw/OmniRoute.git
-cd OmniRoute
+git clone https://github.com/Gaganbtech/LocalHost-IDE.git
+cd LocalHost-IDE
 npm install
 ```
 
@@ -339,7 +339,7 @@ tests/
 docs/
 ├── adr/                     # Architecture Decision Records
 ├── architecture/            # System architecture & resilience
-├── comparison/              # OmniRoute vs alternatives
+├── comparison/              # LocalHost IDE vs alternatives
 ├── compression/             # Compression guides & rules
 ├── dev/                     # Development guides
 ├── diagrams/                # Architecture diagrams
@@ -430,4 +430,4 @@ Then use the `/deploy-vps-*-cc` skills which rsync `dist/` to the remote `app/` 
 - **API Reference**: See [`docs/reference/API_REFERENCE.md`](docs/reference/API_REFERENCE.md)
 - **Security docs**: [`docs/security/CLI_TOKEN.md`](docs/security/CLI_TOKEN.md), [`docs/security/ROUTE_GUARD_TIERS.md`](docs/security/ROUTE_GUARD_TIERS.md), [`docs/security/ERROR_SANITIZATION.md`](docs/security/ERROR_SANITIZATION.md), [`docs/security/PUBLIC_CREDS.md`](docs/security/PUBLIC_CREDS.md)
 - **Ops docs**: [`docs/ops/SQLITE_RUNTIME.md`](docs/ops/SQLITE_RUNTIME.md)
-- **Issues**: [github.com/diegosouzapw/OmniRoute/issues](https://github.com/diegosouzapw/OmniRoute/issues)
+- **Issues**: [github.com/Gaganbtech/LocalHost-IDE/issues](https://github.com/Gaganbtech/LocalHost-IDE/issues)
