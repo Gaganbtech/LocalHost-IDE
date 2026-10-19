@@ -1,5 +1,5 @@
 ---
-title: "📖 Setup Guide — OmniRoute"
+title: "📖 Setup Guide — LocalHost IDE"
 version: 3.8.50
 lastUpdated: 2026-08-18
 ---

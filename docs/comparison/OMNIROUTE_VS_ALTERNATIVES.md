@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute vs Alternatives"
+title: "LocalHost IDE vs Alternatives"
 version: 3.8.50
 lastUpdated: 2026-08-02
 ---

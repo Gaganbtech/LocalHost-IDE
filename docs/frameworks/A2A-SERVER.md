@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute A2A Server Documentation"
+title: "LocalHost IDE A2A Server Documentation"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

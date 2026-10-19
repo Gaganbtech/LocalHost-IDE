@@ -1,5 +1,5 @@
 ---
-title: "Remote Mode — Drive a remote OmniRoute from your laptop"
+title: "Remote Mode — Drive a remote LocalHost IDE from your laptop"
 version: 3.8.50
 lastUpdated: 2026-08-18
 ---

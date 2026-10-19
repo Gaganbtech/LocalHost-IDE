@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Get OmniRoute Running in 3 Minutes"
+title: "Quick Start: Get LocalHost IDE Running in 3 Minutes"
 version: 3.8.50
 lastUpdated: 2026-08-06
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Providers Guide: Connect AI Models to OmniRoute"
+title: "Providers Guide: Connect AI Models to LocalHost IDE"
 version: 3.8.50
 lastUpdated: 2026-08-06
 ---

@@ -1,5 +1,5 @@
 ---
-title: "🐳 Docker Guide — OmniRoute"
+title: "🐳 Docker Guide — LocalHost IDE"
 version: 3.8.51
 lastUpdated: 2026-10-16
 ---

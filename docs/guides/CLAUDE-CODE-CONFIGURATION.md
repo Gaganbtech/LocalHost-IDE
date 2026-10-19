@@ -1,5 +1,5 @@
 ---
-title: "Claude Code CLI — Configuration with OmniRoute"
+title: "Claude Code CLI — Configuration with LocalHost IDE"
 version: 3.8.40
 lastUpdated: 2026-07-24
 ---

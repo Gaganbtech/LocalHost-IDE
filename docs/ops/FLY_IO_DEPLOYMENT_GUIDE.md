@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute Fly.io Deployment Guide"
+title: "LocalHost IDE Fly.io Deployment Guide"
 version: 3.8.52
 lastUpdated: 2026-10-05
 ---

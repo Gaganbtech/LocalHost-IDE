@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute Tiers — User Guide"
+title: "LocalHost IDE Tiers — User Guide"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute Plugin SDK"
+title: "LocalHost IDE Plugin SDK"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

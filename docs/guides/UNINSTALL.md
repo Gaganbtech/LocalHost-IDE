@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute — Uninstall Guide"
+title: "LocalHost IDE — Uninstall Guide"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

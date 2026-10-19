@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute Agent Skills Catalog"
+title: "LocalHost IDE Agent Skills Catalog"
 version: 3.8.50
 lastUpdated: 2026-08-02
 ---

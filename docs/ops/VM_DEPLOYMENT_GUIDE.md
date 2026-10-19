@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute — Deployment Guide on VM with Cloudflare"
+title: "LocalHost IDE — Deployment Guide on VM with Cloudflare"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

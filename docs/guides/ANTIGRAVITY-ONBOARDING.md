@@ -1,5 +1,5 @@
 ---
-title: "Antigravity (Google One AI) — Onboarding with OmniRoute"
+title: "Antigravity (Google One AI) — Onboarding with LocalHost IDE"
 version: 3.8.50
 lastUpdated: 2026-07-31
 ---

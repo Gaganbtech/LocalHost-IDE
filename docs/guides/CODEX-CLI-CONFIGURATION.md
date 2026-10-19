@@ -1,5 +1,5 @@
 ---
-title: "Codex CLI — Configuration with OmniRoute"
+title: "Codex CLI — Configuration with LocalHost IDE"
 version: 3.8.50
 lastUpdated: 2026-08-18
 ---

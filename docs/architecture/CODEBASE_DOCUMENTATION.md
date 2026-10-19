@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute Codebase Documentation"
+title: "LocalHost IDE Codebase Documentation"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

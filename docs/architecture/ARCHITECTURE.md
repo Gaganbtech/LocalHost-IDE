@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute Architecture"
+title: "LocalHost IDE Architecture"
 version: 3.8.52
 lastUpdated: 2026-10-05
 ---

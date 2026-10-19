@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute — Dashboard Features Gallery"
+title: "LocalHost IDE — Dashboard Features Gallery"
 version: 3.8.52
 lastUpdated: 2026-10-05
 ---

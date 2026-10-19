@@ -1,5 +1,5 @@
 ---
-title: "CLI Tools — OmniRoute"
+title: "CLI Tools — LocalHost IDE"
 version: 3.8.50
 lastUpdated: 2026-08-23
 ---

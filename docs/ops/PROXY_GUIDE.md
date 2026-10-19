@@ -1,5 +1,5 @@
 ---
-title: "🌐 OmniRoute Proxy Guide"
+title: "🌐 LocalHost IDE Proxy Guide"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

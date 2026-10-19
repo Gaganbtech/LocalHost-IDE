@@ -1,5 +1,5 @@
 ---
-title: "🚀 Self-Host Guide — OmniRoute (零月费自托管 / zero-fee self-host)"
+title: "🚀 Self-Host Guide — LocalHost IDE (零月费自托管 / zero-fee self-host)"
 version: 3.8.52
 lastUpdated: 2026-10-05
 ---

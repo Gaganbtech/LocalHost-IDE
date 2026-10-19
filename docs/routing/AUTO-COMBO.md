@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute Auto-Combo Engine"
+title: "LocalHost IDE Auto-Combo Engine"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

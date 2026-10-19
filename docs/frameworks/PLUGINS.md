@@ -1,5 +1,5 @@
 ---
-title: "OmniRoute CLI Plugin System"
+title: "LocalHost IDE CLI Plugin System"
 version: 3.8.40
 lastUpdated: 2026-06-28
 ---

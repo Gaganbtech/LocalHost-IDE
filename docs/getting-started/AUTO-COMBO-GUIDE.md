@@ -1,5 +1,5 @@
 ---
-title: "Auto-Combo: Let OmniRoute Pick the Best AI for You"
+title: "Auto-Combo: Let LocalHost IDE Pick the Best AI for You"
 version: 3.8.50
 lastUpdated: 2026-08-06
 ---
