@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td align="right"><b>👀 See it</b></td>
-    <td align="center"><a href="#-localhost-ide-in-action">🎬 In Action</a></td>
+    <td align="center"><a href="#-localhost-ide-radar">📡 Radar</a></td>
     <td align="center"><a href="#-whats-new">✨ What's New</a></td>
     <td align="center"><a href="#-compatible-clis--coding-agents">🤖 Compatible CLIs</a></td>
   </tr>
@@ -1171,76 +1171,6 @@ For the fastest installs prefer **pnpm** (content-addressed store + hard links �
 For a dashboard-free, headless runtime use the Docker `base` profile (above) or the
 [Termux guide](docs/guides/TERMUX_GUIDE.md). The CLI and the web dashboard are served by the
 same process on one port, so there is no separate CLI-only package today.
-
-<br/>
-
-<div align="center">
-
-# 🎬 LocalHost IDE in Action
-
-</div>
-
-## 📹 Video Guides
-
-<div align="center">
-
-<sub>Snapshot do painel em 2026-08-24 · Catálogo bruto: YT 809 | TT 137 | IG 124 · Frescor (dias): YT 1 | TT 21 | IG 22</sub>
-
-<table>
-  <tr>
-    <td align="center" width="320">
-      <a href="https://www.instagram.com/reel/Da8ZthUPK98/">
-        <img src="https://placehold.co/320x180/111827/FFFFFF?text=Instagram+Reel+%7C+nick_saraev&font=montserrat&bold=true" alt="Instagram Reel" width="300"/>
-      </a><br/>
-      <b>🎬 #1 — Instagram</b><br/>
-      <sub>nick_saraev — 3,042,474 views</sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.instagram.com/reel/DaSs65mMrHk/">
-        <img src="https://placehold.co/320x180/111827/FFFFFF?text=Instagram+Reel+%7C+theopenstack&font=montserrat&bold=true" alt="Instagram Reel — theopenstack" width="300"/>
-      </a><br/>
-      <b>🎬 #2 — Instagram</b><br/>
-      <sub>theopenstack — 692,419 views</sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.tiktok.com/@milesreevesai/video/7667980059189366019">
-        <img src="https://placehold.co/320x180/111827/FFFFFF?text=TikTok+%7C+milesreevesai&font=montserrat&bold=true" alt="TikTok — milesreevesai" width="300"/>
-      </a><br/>
-      <b>🎬 #3 — TikTok</b><br/>
-      <sub>milesreevesai — 620,400 views</sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=QucgvbO5gsM">
-        <img src="https://img.youtube.com/vi/QucgvbO5gsM/maxresdefault.jpg" alt="YouTube — Vaibhav Sisinty" width="300"/>
-      </a><br/>
-      <b>🎬 #4 — YouTube</b><br/>
-      <sub>Vaibhav Sisinty — 391,109 views</sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.instagram.com/reel/DbIt9AjK7-U/">
-        <img src="https://placehold.co/320x180/111827/FFFFFF?text=Instagram+Reel+%7C+buildwithai.club&font=montserrat&bold=true" alt="Instagram Reel — buildwithai.club" width="300"/>
-      </a><br/>
-      <b>🎬 #5 — Instagram</b><br/>
-      <sub>buildwithai.club — 347,652 views</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-**Ranking completo (URLs canônicas deduplicadas, `v > 0`, maior alcance):**
-
-| #1                                                                                     | #2                                                                                    | #3                                                                                                      | #4                                                                                     | #5                                                                                        |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [nick_saraev — Instagram](https://www.instagram.com/reel/Da8ZthUPK98/) — **3,042,474** | [theopenstack — Instagram](https://www.instagram.com/reel/DaSs65mMrHk/) — **692,419** | [milesreevesai — TikTok](https://www.tiktok.com/@milesreevesai/video/7667980059189366019) — **620,400** | [Vaibhav Sisinty — YouTube](https://www.youtube.com/watch?v=QucgvbO5gsM) — **391,109** | [buildwithai.club — Instagram](https://www.instagram.com/reel/DbIt9AjK7-U/) — **347,652** |
-
-| #6                                                                                  | #7                                                                                      | #8                                                                                          | #9                                                                                        | #10                                                                                         |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [nivedan.ai — Instagram](https://www.instagram.com/reel/DbIrCksJiqq/) — **331,973** | [vaibhavsisinty — Instagram](https://www.instagram.com/reel/Dae05TSAK1l/) — **263,744** | [Nick Automates — YouTube Shorts](https://www.youtube.com/shorts/fZIBK_4fKq8) — **218,174** | [theroshankrishna — Instagram](https://www.instagram.com/reel/Dapjs58z0P0/) — **186,786** | [midudev — TikTok](https://www.tiktok.com/@midudev/video/7664636453544152342) — **177,800** |
-
-Métricas canônicas em 2026-08-24: **1.029 vídeos únicos** · **11.132.922 visualizações conhecidas** (`v > 0`) · **639 canais/perfis por rede**. O painel bruto contém 1.070 linhas; 41 duplicatas do Instagram foram normalizadas pela URL canônica, mantendo a maior contagem por vídeo.
-
-> 🎬 **Made a video about LocalHost IDE?** Open an [issue](https://github.com/Gaganbtech/LocalHost-IDE/issues/new) or [discussion](https://github.com/Gaganbtech/LocalHost-IDE/discussions) with the link — we'll feature it here.
 
 <br/>
 
